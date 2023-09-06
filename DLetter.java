@@ -2,7 +2,7 @@
 public class DLetter {
 
 	public static void main(String[] args) {
-		int n=6;
+		int n=11;
 		
 		for(int i=0;i<n;i++)
 		{
